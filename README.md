@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
