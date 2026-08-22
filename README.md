@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
+| [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
