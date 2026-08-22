@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
