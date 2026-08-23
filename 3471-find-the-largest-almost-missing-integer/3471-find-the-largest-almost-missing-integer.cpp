@@ -1,31 +1,16 @@
 class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<int> count(51, 0);
-
-        // Generate every subarray of size k
-        for (int i = 0; i <= n - k; i++) {
-            set<int> st;
-
-            // Elements inside current window
-            for (int j = i; j < i + k; j++) {
-                st.insert(nums[j]);
-            }
-
-            // Each number gets +1 for this window
-            for (int x : st) {
-                count[x]++;
+        int f[51] = {};
+        for (int val : nums) {
+            f[val]++;
+        }
+        int res = -1, n = nums.size();
+        for (int i=0; i<n; i++) {
+            if (k == n || f[nums[i]] == 1 && (k == 1 || i == 0 || i == n-1)) {
+                res = max(res, nums[i]);
             }
         }
-
-        // Find largest number appearing in exactly 1 window
-        for (int x = 50; x >= 0; x--) {
-            if (count[x] == 1) {
-                return x;
-            }
-        }
-
-        return -1;
+        return res;
     }
 };
