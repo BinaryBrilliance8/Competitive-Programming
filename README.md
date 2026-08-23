@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
