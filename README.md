@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
+| [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
