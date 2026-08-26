@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2678-number-of-senior-citizens) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
