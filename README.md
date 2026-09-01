@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0583-delete-operation-for-two-strings) |
+| [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [1092-shortest-common-supersequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
+| [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
+| [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
