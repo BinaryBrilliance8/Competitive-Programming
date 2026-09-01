@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2678-number-of-senior-citizens) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3731-find-missing-elements) |
