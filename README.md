@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
 | ------- |
