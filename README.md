@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
