@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1991-find-the-middle-index-in-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
