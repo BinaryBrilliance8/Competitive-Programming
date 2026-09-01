@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0165-compare-version-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
