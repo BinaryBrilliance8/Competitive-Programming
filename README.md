@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1672-richest-customer-wealth](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1672-richest-customer-wealth) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
+| [1672-richest-customer-wealth](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1672-richest-customer-wealth) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
