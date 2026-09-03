@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1528-shuffle-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1672-richest-customer-wealth) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1528-shuffle-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2678-number-of-senior-citizens](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
