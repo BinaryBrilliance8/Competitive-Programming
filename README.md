@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
+| [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
+| [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
+| [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
+| [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -339,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
