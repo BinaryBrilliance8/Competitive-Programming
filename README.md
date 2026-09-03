@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -353,10 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Cartesian Tree
 |  |
