@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
@@ -377,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
