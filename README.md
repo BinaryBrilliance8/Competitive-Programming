@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1207-unique-number-of-occurrences) |
+| [1219-path-with-maximum-gold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
+| [1219-path-with-maximum-gold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1219-path-with-maximum-gold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1672-richest-customer-wealth) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+## Backtracking
+|  |
+| ------- |
+| [1219-path-with-maximum-gold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1219-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
