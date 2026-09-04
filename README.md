@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
+| [0118-pascals-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
