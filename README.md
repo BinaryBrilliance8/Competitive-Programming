@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1219-path-with-maximum-gold) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2007-find-original-array-from-doubled-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2007-find-original-array-from-doubled-array) |
