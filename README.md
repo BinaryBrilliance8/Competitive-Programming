@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0165-compare-version-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Kosaraju's Algorithm
@@ -470,4 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1219-path-with-maximum-gold) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2597-the-number-of-beautiful-subsets) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
