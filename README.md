@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0802-find-eventual-safe-states) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2685-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
 | ------- |
