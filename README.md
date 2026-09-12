@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3731-find-missing-elements) |
 ## Math
