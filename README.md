@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0896-monotonic-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0904-fruit-into-baskets) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0778-swim-in-rising-water](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0835-image-overlap) |
 | [1219-path-with-maximum-gold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1219-path-with-maximum-gold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1672-richest-customer-wealth) |
