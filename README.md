@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0567-permutation-in-string) |
