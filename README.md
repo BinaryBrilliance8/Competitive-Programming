@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0189-rotate-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0646-maximum-length-of-pair-chain) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1192-critical-connections-in-a-network) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
