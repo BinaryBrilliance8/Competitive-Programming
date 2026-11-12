@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
