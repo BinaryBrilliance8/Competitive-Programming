@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2597-the-number-of-beautiful-subsets) |
