@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Number Theory
 |  |
 | ------- |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Design
 |  |
 | ------- |
