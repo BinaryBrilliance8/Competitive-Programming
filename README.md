@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/BinaryBrilliance8/Competitive-Programming/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
 | ------- |
